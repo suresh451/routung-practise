@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.header-img {
+  width: 50px;
+}
+.ul-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li {
+  list-style-type: none;
+  text-decoration: none;
+  margin: 10px;
+  color: #12022f;
+  font-family: 'Roboto';
+  cursor: pointer;
+}
